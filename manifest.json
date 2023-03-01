@@ -10,24 +10,24 @@
     "icons": [
         {
             "src": "./img/cat-1.jpg",
-            "sizes": "192x192",
+            "sizes": "150x150",
             "type": "image/png",
             "purpose": "any"
         },
         {
             "src": "./img/cat-4.jpg",
-            "sizes": "512x512",
+            "sizes": "150x150",
             "type": "image/png",
             "purpose": "any"
         },
         {
             "src": "./img/vendor-1.jpg",
-            "sizes": "192x192",
+            "sizes": "150x150",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "./img/product-1.jpg",
+            "src": "./img/crown.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
